@@ -1,4 +1,4 @@
-# **📈 – STOCK TRADING PLATFORM – **
+# **📈STOCK TRADING PLATFORM**
 
 ---
 
