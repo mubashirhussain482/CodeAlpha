@@ -1,4 +1,4 @@
-# **📈 TASK 2 – STOCK TRADING PLATFORM**
+# **📈 – STOCK TRADING PLATFORM – **
 
 ---
 
