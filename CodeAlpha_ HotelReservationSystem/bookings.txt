@@ -1,0 +1,5 @@
+HB1001,Mubashir,03208640805,malikmubashirhussain482@gmail.com,201,Deluxe,2026-09-01,2026-09-04,2,24000.0,Cancelled
+HB1002,Tajamil,03015476331,tajamilh9@gmail.com,201,Deluxe,2026-09-03,2026-09-09,3,48000.0,Cancelled
+HB1003,Bilal,03013123465,bilalbb@gmail.com,201,Deluxe,2026-09-01,2026-09-04,2,24000.0,Confirmed
+HB1004,Fariha,03235769812,ffarih@gmail.com,302,Suite,2026-09-21,2026-09-27,2,72000.0,Confirmed
+HB1005,Shazia,031x,shz33@gmail.com,101,Standard,2024-09-22,2026-10-11,2,3745000.0,Cancelled
